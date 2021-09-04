@@ -4,9 +4,9 @@ The demo code presented in the lecture can be found in:
 
 You can run this python notebook by opening binder and running jupyter from there.
 1. Open [Binder](https://gke.mybinder.org/)
-2. Fill in `GitHub repository name or URL`: `https://github.com/lovissahuigita/ekskul_data_science_demo/week5.git`
+2. Fill in `GitHub repository name or URL`: `https://github.com/lovissahuigita/ekskul_data_science_demo.git`
 4. Hit `Launch`! and wait until your notebook is launched.
-5. Click on the `week5demo.ipynb` file to see the demo file.
+5. Click on `week5`, then click on `week5demo.ipynb` file to see the demo file.
 ![Notebook](/img/img1.png "Notebook")
 6. When you are in the jupyter file, click on the `Jupyter` logo on the top left
 ![Home Page](/img/img2.png "Home Page")

@@ -1,3 +1,4 @@
+
 # Week 5 Demo
 
 This repository contains some jupyter demos for you to get started. It includes:
@@ -49,3 +50,25 @@ Don't feel like you need to know ALL pandas functions... There are too many. No 
 Happy hacking people!
 
 Feel free to reach out to me if you have any questions :)
+
+# Week 6 Demo
+This repository contains a jupyter demo for:
+- data analytics
+- data visualization
+
+The demo code presented in the lecture can be found in:
+> week6demo.ipynb
+
+Please follow `week5` demo instruction to open `week6` demo files.
+
+For this week's demo, you can get stock historical data from this site:
+https://www.marketwatch.com/tools/quotes/historical.asp
+- enter the stock name (AAPL, GOOG, IBM, JPM, etc) and the date you would like to check the price
+- download the csv file
+- ensure that you put the .csv file in the same directory as the .ipynb file
+
+Lecture Edits:
+- I added `sort_index()` to ensure the date was sorted from the earliest date to the latest date.
+- GOOG & AMZN price was pretty straight/linear, no error there. AAPL and JPM was easier to look at.
+
+Have fun and play around with the data! :)
